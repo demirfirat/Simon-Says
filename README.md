@@ -1,7 +1,7 @@
 # Simon Says Game
 A Simon Game implementation built with React. This memory-based game challenges players to repeat the sequence of colors shown by the computer. Each correct round increases your score, but one mistake ends the game.
 
-**(DEMO)[]**
+**[CHECK PROJECT](https://simon-says-umber.vercel.app/)**
 
 ## Features
 - Follows the classic Simon Says gameplay.
