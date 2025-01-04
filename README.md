@@ -1,6 +1,8 @@
 # Simon Says Game
 A Simon Game implementation built with React. This memory-based game challenges players to repeat the sequence of colors shown by the computer. Each correct round increases your score, but one mistake ends the game.
 
+**(DEMO)[]**
+
 ## Features
 - Follows the classic Simon Says gameplay.
 - Score tracking.
